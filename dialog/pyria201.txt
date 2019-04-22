@@ -1,0 +1,23 @@
+﻿#brudas
+Może sprzedamy te ziemniaki? Ponoć są tu bardzo cenne.
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Może sprzedamy te ziemniaki? Ponoć są tu bardzo cenne.
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Może sprzedamy te ziemniaki? Ponoć są tu bardzo cenne.
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Może sprzedamy te ziemniaki? Ponoć są tu bardzo cenne.
+1
+Zakończ rozmowę.
+Exit

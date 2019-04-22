@@ -1,0 +1,23 @@
+﻿#brudas
+Uga buga!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Uga buga!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Uga buga!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Uga buga!
+1
+Zakończ rozmowę.
+Exit

@@ -1,0 +1,31 @@
+﻿#brudas
+Młodzieńcze, weź kąpiel! Mogę ci udostępnić łazienkę za 50 kukli.
+2
+Zapłać.
+#no_cash
+Zakończ rozmowę.
+Exit
+#no_cash
+Nie masz wystarczajej ilości kukli!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Młodzieńcze, weź kąpiel! Mogę ci udostępnić łazienkę za 50 kukli.
+2
+Zapłać.
+TakeShower
+Zakończ rozmowę.
+Exit
+TakeShower
+No, w końcu nie śmierdzisz na całą wioskę!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Piękna dziś pogoda.
+1
+Zakończ rozmowę.
+Exit

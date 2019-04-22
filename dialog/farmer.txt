@@ -1,0 +1,23 @@
+﻿#brudas
+Spie*dalaj z mojej ziemi!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Spie*dalaj z mojej ziemi!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Spie*dalaj z mojej ziemi!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Spie*dalaj z mojej ziemi!
+1
+Zakończ rozmowę.
+Exit

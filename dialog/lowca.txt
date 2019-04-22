@@ -1,0 +1,23 @@
+﻿#brudas
+Na wszelkich druidów! Jeszcze nie czułem takiego smrodu! Wróć, jak się umyjesz!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Na co czekasz? Umyj się!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Mała rada ode mnie... nie zbaczaj z leśnej ścieżki. Jeszcze nie teraz...
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Janusz mówił, że mu pomożesz. No dalej, zabij to monstrum!
+1
+Zakończ rozmowę.
+Exit

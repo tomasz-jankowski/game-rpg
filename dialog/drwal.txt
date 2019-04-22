@@ -1,0 +1,23 @@
+﻿#brudas
+Chłopie! Jak ty śmierdzisz!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Skoro masz pieniądze, to czemu się nie umyjesz?!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Ładny mamy dziś dzień.
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Ładny mamy dziś dzień.
+1
+Zakończ rozmowę.
+Exit

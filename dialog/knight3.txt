@@ -1,0 +1,23 @@
+﻿#brudas
+Przejście jest zamknięte! Cofnij się!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Przejście jest zamknięte! Cofnij się!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Przejście jest zamknięte! Cofnij się!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Przejście jest zamknięte! Cofnij się!
+1
+Zakończ rozmowę.
+Exit

@@ -1,0 +1,57 @@
+﻿#brudas
+Ale capisz!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Ale capisz!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Cholerna bestia...
+2
+Coś się stało?
+#jan1
+Zakończ rozmowę.
+Exit
+#jan1
+Moje marchewki...
+2
+O co chodzi?
+#jan2
+Zakończ rozmowę.
+Exit
+#jan2
+Cholerna bestia...
+2
+Coś się stało?
+#jan3
+Zakończ rozmowę.
+Exit
+#jan3
+Przeklęty potwór! Ciągle podkrada mi moje marchewki! Tracę przez niego zbyt dużo kukli, niedługo nie będę miał co jeść. Marchewki to drogi interes, chłopcze. Pomóż mi go zgładzić!
+2
+Zrobię to!
+#jan4
+Nie ma mowy!
+Exit
+#jan4
+Idąc przez las, zejdź w głąb, w boczną ścieżkę. Tylko uważaj na siebie! Lepiej kup trochę mikstur leczniczych!
+1
+Jasne!
+TakeQuest
+
+TakeQuest
+Powodzenia!
+1
+Zakończ rozmowę
+Exit
+
+#quest
+No dalej, zabij go wreszcie!
+1
+Zakończ rozmowę.
+Exit

@@ -1,0 +1,23 @@
+﻿#brudas
+W końcu się stamtąd wydostaliśmy!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+W końcu się stamtąd wydostaliśmy!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+W końcu się stamtąd wydostaliśmy!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+W końcu się stamtąd wydostaliśmy!
+1
+Zakończ rozmowę.
+Exit

@@ -1,0 +1,127 @@
+﻿#brudas
+Chcesz pograć w papier, kamień, nożyce?
+2
+Jasne!
+#gra1
+Nie umiem...
+Exit
+#gra1
+Co wybierzesz?
+3
+Papier.
+#papier
+Kamień.
+#kamien
+Nożyce.
+#nozyce
+#papier
+Nożyce! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#nozyce
+Kamień! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#kamien
+Papier! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Chcesz pograć w papier, kamień, nożyce?
+2
+Jasne!
+#gra1
+Nie umiem...
+Exit
+#gra1
+Co wybierzesz?
+3
+Papier.
+#papier
+Kamień.
+#kamien
+Nożyce.
+#nozyce
+#papier
+Nożyce! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#nozyce
+Kamień! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#kamien
+Papier! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Chcesz pograć w papier, kamień, nożyce?
+2
+Jasne!
+#gra1
+Nie umiem...
+Exit
+#gra1
+Co wybierzesz?
+3
+Papier.
+#papier
+Kamień.
+#kamien
+Nożyce.
+#nozyce
+#papier
+Nożyce! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#nozyce
+Kamień! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#kamien
+Papier! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Chcesz pograć w papier, kamień, nożyce?
+2
+Jasne!
+#gra1
+Nie umiem...
+Exit
+#gra1
+Co wybierzesz?
+3
+Papier.
+#papier
+Kamień.
+#kamien
+Nożyce.
+#nozyce
+#papier
+Nożyce! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#nozyce
+Kamień! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit
+#kamien
+Papier! Przegrałeś!
+1
+Zakończ rozmowę.
+Exit

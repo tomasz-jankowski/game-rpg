@@ -1,0 +1,62 @@
+﻿#brudas
+Dzień dobry... [zasłania się chustką]. W czym mogę pomóc?
+2
+Sprzedaj ziemniaki.
+Sell
+Ja sobie już pójdę.
+Exit
+
+Sell
+Nie wydaj tego na głupoty!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Dzień dobry... [zasłania się chustką]. W czym mogę pomóc?
+2
+Chciałbym coś sprzedać.
+#sklep1
+Zakończ rozmowę.
+Exit
+#sklep1
+Nie masz nic interesującego.
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Dzień dobry! W czym mogę pomóc?
+3
+Chciałbym coś sprzedać.
+#sklep2
+Chciałbym coś kupić.
+#sklep3
+Zakończ rozmowę.
+Exit
+#sklep2
+Nie masz nic interesującego.
+1
+Zakończ rozmowę.
+Exit
+#sklep3
+Co chcesz kupić?
+3
+Kup miksturę leczniczą (50 kukli).
+#potion
+Kup miecz (150 kukli).
+#miecz
+Zakończ rozmowę.
+Exit
+
+#potion
+Smacznego!
+1
+Zakończ rozmowę.
+Exit
+
+#miecz
+Nie potnij się!
+1
+Zakończ rozmowę.
+Exit

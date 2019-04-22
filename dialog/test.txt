@@ -1,0 +1,23 @@
+#start					// nazwa perwszej wypowiedzi
+no i gitara siema co tam u was krejzole gotowi na przygode ¿ycia?	//1 wypowidedz
+3					//liczba mo¿liwych odpowiedzi
+no jasne				//pierwsza odpowiedz
+#zgoda					//nazwa wypowiedzi po zaznaczeniu 1 odpowiedzi
+poebao???, dawaj wiêcej siana typku ! 	//2 odpowiedz	
+#negocjuj				// nazwa wypowiedzi po zaznaczeniu 2 odpowiedzi
+nie, spadaj.!!!11 			//3 odpowiedz		
+Exit					//Zamkniêcie okna Dialogowego
+
+#zgoda					//Nazwa wypowiedzi 						
+sdasdasfdasfasfasfasfasfas
+1
+nic
+Exit
+
+#negocjuj
+Dobra, dobra tylko mnie nie bij
+1
+no i zajebiscie
+Exit
+
+

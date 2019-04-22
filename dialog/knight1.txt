@@ -1,0 +1,23 @@
+﻿#brudas
+Stój!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Stój!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Stój!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Stój!
+1
+Zakończ rozmowę.
+Exit

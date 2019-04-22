@@ -1,0 +1,23 @@
+﻿#brudas
+Dobrze, że wzięliśmy ziemniaki, mamy co jeść!
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Dobrze, że wzięliśmy ziemniaki, mamy co jeść!
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Dobrze, że wzięliśmy ziemniaki, mamy co jeść!
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Dobrze, że wzięliśmy ziemniaki, mamy co jeść!
+1
+Zakończ rozmowę.
+Exit

@@ -1,0 +1,51 @@
+﻿#brudas
+Ej, ty! Mam maczetę, mogę ci ją dać!
+2
+No jasne, daj!
+#maczeta
+Nie, dzięki...
+Exit
+#maczeta
+Przyjdź później, jeszcze mi się przyda.
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Ej, ty! Mam maczetę, mogę ci ją dać!
+2
+No jasne, daj!
+#maczeta
+Nie, dzięki...
+Exit
+#maczeta
+Przyjdź później, jeszcze mi się przyda.
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Ej, ty! Mam maczetę, mogę ci ją dać!
+2
+No jasne, daj!
+#maczeta
+Nie, dzięki...
+Exit
+#maczeta
+Przyjdź później, jeszcze mi się przyda.
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Ej, ty! Mam maczetę, mogę ci ją dać!
+2
+No jasne, daj!
+#maczeta
+Nie, dzięki...
+Exit
+#maczeta
+Przyjdź później, jeszcze mi się przyda.
+1
+Zakończ rozmowę.
+Exit

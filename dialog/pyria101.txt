@@ -1,0 +1,23 @@
+﻿#brudas
+Mam nadzieję, że mieszkańcy nam pomogą...
+1
+Zakończ rozmowę.
+Exit
+
+#prysznic
+Mam nadzieję, że mieszkańcy nam pomogą...
+1
+Zakończ rozmowę.
+Exit
+
+#czysty
+Mam nadzieję, że mieszkańcy nam pomogą...
+1
+Zakończ rozmowę.
+Exit
+
+#quest
+Mam nadzieję, że mieszkańcy nam pomogą...
+1
+Zakończ rozmowę.
+Exit
