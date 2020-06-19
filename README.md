@@ -7,17 +7,17 @@
 2D RPG game developed for the needs of the university project. It provdes about 15 minutes of gameplay, but is not fully completed.
 
 Features:
-- 3 available classes (Warrior, Mage, Archer)
+- 3 available characters (Warrior, Mage, Archer)
 - NPCs (dialogues)
 - Quests
-- Leveling
+- Character leveling
 - Unique classes skills
-- Fighting the enemies
+- Turn-based battles with attack animations
 
 **Dialogue with NPC:**
 ![rpg](https://user-images.githubusercontent.com/48838669/85048709-fc559f00-b193-11ea-9788-fdad98ee54ec.PNG)
 
-**Fight:**
+**Battle:**
 ![fight](https://user-images.githubusercontent.com/48838669/85048706-fbbd0880-b193-11ea-946d-4c805c701df3.PNG)
 
 ## Credits
